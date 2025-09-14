@@ -26,6 +26,7 @@ Most customers fall within the 18–25 age group, with only a few outliers in ol
 
 3️⃣ Moderate Purchase Frequency
 A majority of customers made between 2 to 10 purchases. While this shows engagement, there's room to improve repeat purchase rates through better re-targeting or rewards.
+
 📦 Product & Category Insights
 
 4️⃣ Category Satisfaction Gap
@@ -36,6 +37,7 @@ Customers tend to spend more per transaction on electronics and home appliances,
 
 6️⃣ Brand Loyalty Patterns
 A small set of leading brands dominate customer purchases, reflecting strong brand trust. Lesser-known brands face low visibility and may benefit from placement strategies or bundled offers.
+
 🚚 Operational & Sales Trends
 
 7️⃣ Shipping & Cancellations
