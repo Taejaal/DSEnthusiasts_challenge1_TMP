@@ -66,8 +66,8 @@ README.md (This file)
 
 retail_data.csv (The raw dataset used for the challenge)
 
-analysis.ipynb (The main Jupyter Notebook with all our code and analysis)
+DS_ENTHUSIASTS.ipynb (The main Jupyter Notebook with all our code and analysis)
 
-presentation.pptx (A summary of our findings and recommendations)
+DS ENTHUSIASTS.pptx (A summary of our findings and recommendations)
 
-presentation.pdf(pdf version of the presentation)
+DS ENTHUSIASTS.pdf(pdf version of the presentation)
