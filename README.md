@@ -55,3 +55,15 @@ The distribution of total amount spent is heavily right-skewed. A few customers 
 
 1️⃣2️⃣ Yearly Trends Show Decline
 Most sales are from 2023, followed by a sharp decline in 2024. This could indicate business slowdown, external disruptions, or missing marketing opportunities.
+
+For a more detailed breakdown, please refer to our full analysis in the Jupyter Notebook and the accompanying presentation.
+
+📁 Repository Structure
+
+README.md (This file)
+
+retail_data.csv (The raw dataset used for the challenge)
+
+analysis.ipynb (The main Jupyter Notebook with all our code and analysis)
+
+presentation.pptx (A summary of our findings and recommendations)
