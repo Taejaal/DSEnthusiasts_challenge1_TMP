@@ -5,13 +5,13 @@ This repository contains our submission for Challenge 01 of The Manhattan Projec
 
 Team Members
 
-[TAEJAAL AGARWAL] - [Univariate Analysis, Bivariate Analysis, Power Point Presentationl
+Adrija Kundu – Narrative Strategist , Insight Communicator , Multivariate Analysis, Time Series Analysis, Outliers Analysis
 
-[ADRIJA KUNDU] - [Multivariate Analysis, Time Series Analysis, Outliers Analysis, Power Point Presentation]
+Taejaal Agarwal –  Slide Architect ,Visual Storytelling,Univariate Analysis, Multivariate Analysis
 
-[INDRANI RAY] - [Bivariate Analysis, Outliers Analysis, Power Point Presentation]
+Indrani Ray –   Information Designer , Knowledge Curator, Bivariate Analysis,Outlier Analysis
 
-[ANKITA DAS] - [Bivariate Analysis, Time Series Analysis, Power Point Presentation]
+Ankita Das – Visual Storytelling ,Report writer, Bivariate Analysis, Time Series Analysis
 
 ✨ Key Insights & Findings
 Our exploratory analysis of the OmniMart retail dataset revealed several key patterns in customer behavior, product performance, and operational efficiency. These insights can help guide business decisions across marketing, logistics, and inventory planning.
