@@ -15,7 +15,9 @@ Team Members
 
 ✨ Key Insights & Findings
 Our exploratory analysis of the OmniMart retail dataset revealed several key patterns in customer behavior, product performance, and operational efficiency. These insights can help guide business decisions across marketing, logistics, and inventory planning.
+
 🧍‍♂️ Customer Behavior
+
 1️⃣ Revenue Concentration
 The top 20% of customers account for nearly 60% of total sales, indicating that a small group of high-value customers drive the majority of revenue. This emphasizes the need for loyalty programs to retain them.
 
