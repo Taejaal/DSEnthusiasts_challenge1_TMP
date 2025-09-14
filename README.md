@@ -69,3 +69,5 @@ retail_data.csv (The raw dataset used for the challenge)
 analysis.ipynb (The main Jupyter Notebook with all our code and analysis)
 
 presentation.pptx (A summary of our findings and recommendations)
+
+presentation.pdf(pdf version of the presentation)
